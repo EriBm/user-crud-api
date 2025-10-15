@@ -7,7 +7,7 @@ API REST completa implementada con **TypeScript**, **Express.js**, **TypeORM** y
 La documentación interactiva de la API está disponible con **Swagger UI**:
 
 - **Local**: http://localhost:3000/api-docs
-- **Producción**: https://your-app./api-docscom
+- **Producción**: https://your-app.com/api-docs
 
 ## 🏗️ Arquitectura
 
