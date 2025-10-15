@@ -18,7 +18,7 @@ const options: swaggerJsdoc.Options = {
         description: 'Servidor de desarrollo',
       },
       {
-        url: 'https://your-app.vercel.app',
+        url: 'https://your-app.com',
         description: 'Servidor de producción',
       },
     ],
